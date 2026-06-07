@@ -29,9 +29,9 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 
 ### 🚀 Projetos em destaque
 
-- 📊 **Automação de Relatórios com Python e Pandas** — Leitura de dados CSV, tratamento de informações, cálculo de indicadores e geração automática de relatórios Excel.
-- 🗄️ **Análise de Dados com Python e SQL** — Criação de banco de dados SQLite, consultas SQL com JOIN, GROUP BY e ORDER BY, ranking de clientes e faturamento por produto.
-- 📈 **Relatórios Automatizados em Excel** — Exportação de análises e indicadores utilizando Pandas e OpenPyXL.
+- 📊 [Automação de Relatórios com Python e Pandas](https://github.com/robson-lisboa/automacao-relatorios) — Leitura de dados CSV, tratamento de informações, cálculo de indicadores e geração automática de relatórios Excel.  
+- 🗄️ [Análise de Dados com Python e SQL](https://github.com/robson-lisboa/analise-dados-sql) — Criação de banco de dados SQLite, consultas SQL com JOIN, GROUP BY e ORDER BY, ranking de clientes e faturamento por produto.  
+- 📈 [Relatórios Automatizados em Excel](https://github.com/robson-lisboa/relatorios-openpyxl) — Exportação de análises e indicadores utilizando Pandas e OpenPyXL.
 
 ---
 
@@ -45,19 +45,11 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 
 ---
 
-### 📊 Estatísticas e Atividades GitHub
+### 📊 Estatísticas GitHub
 
 <div align="center">
-  <!-- Gráfico Geral de Estatísticas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  
-  <!-- Linguagens mais utilizadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
-  
-  <br><br>
-  
-  <!-- Calendário de Contribuições (Quadradinhos de atividades e datas) -->
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=robson-lisboa&theme=radical" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
