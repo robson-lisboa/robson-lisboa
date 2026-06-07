@@ -2,7 +2,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **estudante de Engenharia de Software** na **Anhanguera** e estou em **transição de carreira** para a área de **Tecnologia**.  
+Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas como SAP e PAS-X. Atualmente, curso **Engenharia de Software** na **Anhanguera** e estou em transição de carreira para a área de **Tecnologia**.  
 Apaixonado por **tecnologia e desenho realista**, busco unir **criatividade e lógica** na construção de soluções eficientes.  
 Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Pandas, SQLite, OpenPyXL, Git e GitHub**. Também realizo cursos voltados para **análise de dados, banco de dados e automação de processos**, aplicando os conhecimentos adquiridos em projetos práticos e versionados no GitHub.
 
@@ -10,17 +10,14 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 
 ### 🧰 Tecnologias & Ferramentas
 
-**Linguagens:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Bibliotecas e Bancos:**  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Bibliotecas e Bancos:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
 
-**Ferramentas e Controle de Versão:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+**Ferramentas e Controle de Versão:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -37,11 +34,12 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 
 ### 📚 Cursos e Certificações
 
-- 🎓 Engenharia de Software — Anhanguera
-- 📘 Python para Análise de Dados
-- 🗄️ SQL e Banco de Dados
-- 🤖 TOTVS - Fundamentos de Engenharia de Dados e Machine Learning (DIO)
-- 🔧 Git e GitHub para Controle de Versão
+- 🎓 **Engenharia de Software** — Anhanguera
+- 🤖 **Fundamentos de Engenharia de Dados e Machine Learning** — DIO / TOTVS
+- ⚙️ **SAP S/4HANA Essential Training**
+- 📋 **Agile Boards & Settings for Jira**
+- 📘 **Python para Análise de Dados** e **SQL e Banco de Dados**
+- 🔧 **Git e GitHub para Controle de Versão**
 
 ---
 
