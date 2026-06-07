@@ -2,35 +2,48 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou **estudante de Engenharia de Software** na **Anhanguera** e estou em **transição de carreira** para o desenvolvimento **Back-End**.  
+Sou **estudante de Engenharia de Software** na **Anhanguera** e estou em **transição de carreira** para a área de **Tecnologia**.  
 Apaixonado por **tecnologia e desenho realista**, busco unir **criatividade e lógica** na construção de soluções eficientes.  
-Atualmente estudo **C#, .NET, Python, Django** e **SQL**, aprimorando minhas habilidades com projetos práticos e versionados no GitHub.
+Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Pandas, SQLite, OpenPyXL, Git e GitHub**. Também realizo cursos voltados para **análise de dados, banco de dados e automação de processos**, aplicando os conhecimentos adquiridos em projetos práticos e versionados no GitHub.
 
 ---
 
 ### 🧰 Tecnologias & Ferramentas
 
 **Linguagens:**  
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Frameworks e Bancos:**  
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**Bibliotecas e Bancos:**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
 
-**Controle de Versão:**  
+**Ferramentas e Controle de Versão:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Codespaces](https://img.shields.io/badge/GitHub_Codespaces-181717?style=for-the-badge&logo=github&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
 ### 🚀 Projetos em destaque
 
-- 🎯 [Análise de Vendas com Python e SQL](https://github.com/robson-lisboa/analise-vendas) — Projeto com dados simulados, análise e visualização.  
-- 💻 [Sistema de Controle de Clientes em C#](https://github.com/robson-lisboa/controle-clientes) — CRUD completo com Windows Forms e MySQL.  
-- 🧠 [API REST com Django REST Framework](https://github.com/robson-lisboa/api-django) — Integração back-end para aplicações modernas.
+- 📊 **Automação de Relatórios com Python e Pandas** — Leitura de dados CSV, tratamento de informações, cálculo de indicadores e geração automática de relatórios Excel.
+
+- 🗄️ **Análise de Dados com Python e SQL** — Criação de banco de dados SQLite, consultas SQL com JOIN, GROUP BY e ORDER BY, ranking de clientes e faturamento por produto.
+
+- 📈 **Relatórios Automatizados em Excel** — Exportação de análises e indicadores utilizando Pandas e OpenPyXL.
+
+---
+
+### 📚 Cursos e Certificações
+
+- 🎓 Engenharia de Software — Anhanguera
+- 📘 Python para Análise de Dados
+- 🗄️ SQL e Banco de Dados
+- 🤖 TOTVS - Fundamentos de Engenharia de Dados e Machine Learning (DIO)
+- 🔧 Git e GitHub para Controle de Versão
 
 ---
 
@@ -44,7 +57,7 @@ Atualmente estudo **C#, .NET, Python, Django** e **SQL**, aprimorando minhas hab
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A80077&width=500&lines=Em+constante+aprendizado...;Rumo+à+programação+profissional!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A80077&width=500&lines=Em+constante+aprendizado...;Python+%2B+SQL+na+prática!;Construindo+meu+portfólio+em+Tecnologia!"/>
   <br><br>
   <em>"Acredite no processo, cada etapa é essencial para o resultado final."</em>
 </div>
@@ -53,7 +66,7 @@ Atualmente estudo **C#, .NET, Python, Django** e **SQL**, aprimorando minhas hab
 
 <div align="center">
   <a href="mailto:robson-lisboa@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/robson-lisboa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-robson-lisboa-68663643"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://github.com/robson-lisboa"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
