@@ -45,11 +45,19 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 
 ---
 
-### 📊 Estatísticas GitHub
+### 📊 Estatísticas e Atividades GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
+  <!-- Gráfico Geral de Estatísticas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  
+  <!-- Linguagens mais utilizadas -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
+  
+  <br><br>
+  
+  <!-- Calendário de Contribuições (Quadradinhos de atividades e datas) -->
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=robson-lisboa&theme=radical" />
 </div>
 
 ---
