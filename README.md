@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Sobre mim
 
-[cite_start]Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas de alta complexidade como SAP e PAS-X[cite: 15]. [cite_start]Atualmente, curso **Engenharia de Software** na **Anhanguera** [cite: 16, 71] e estou consolidando minha transição de carreira para a área de **Tecnologia**.  
+[cite_start]Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas regulatórios de alta complexidade como **SAP e PAS-X**[cite: 15]. [cite_start]Atualmente, curso **Engenharia de Software** na **Anhanguera** [cite: 16, 70, 71] [cite_start]e estou consolidando minha transição de carreira para a área de **Tecnologia & Dados**.
 
-[cite_start]Com uma sólida bagagem em processos rigorosos, qualidade e conformidade[cite: 15, 23], uno lógica e criatividade para desenvolver soluções eficientes. [cite_start]Meu foco atual está no domínio de **Python e SQL**, com ênfase em automação de processos, manipulação de dados com **Pandas** e modelagem de bancos de dados[cite: 12, 16].
+[cite_start]Combinando minha sólida vivência em processos rigorosos, qualidade e conformidade com as habilidades técnicas em desenvolvimento [cite: 17][cite_start], foco na construção de soluções eficientes com **Python e SQL**. Meu objetivo atual é transformar dados brutos em ferramentas automatizadas de inteligência e otimização operacional.
 
 ---
 
@@ -13,9 +13,9 @@
 **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Bibliotecas e Bancos de Dados:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&theme=dark)
+**Bibliotecas e Bancos:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
 
 **Ferramentas e Controle de Versão:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -24,42 +24,36 @@
 
 ---
 
-### 🚀 Projetos em Destaque
+### 🚀 Projetos em destaque
 
 - 📊 [Automação de Relatórios com Python e Pandas](https://github.com/robson-lisboa/automacao-relatorios) — Extração e tratamento de dados brutos, cálculo de indicadores de performance e geração automatizada de relatórios formatados em Excel.  
-- 🗄️ [Análise de Dados com Python e SQL](https://github.com/robson-lisboa/analise-dados-sql) — Estruturação de banco de dados SQLite, desenvolvimento de consultas complexas (JOINs, agregações) e geração de inteligência de negócios.  
+- 🗄️ [Análise de Dados com Python e SQL](https://github.com/robson-lisboa/analise-dados-sql) — Estruturação de banco de dados SQLite, desenvolvimento de consultas complexas (JOINs e agregações) e geração de inteligência de negócios.  
 - 📈 [Relatórios Automatizados em Excel](https://github.com/robson-lisboa/relatorios-openpyxl) — Integração avançada entre Pandas e OpenPyXL para manipulação de planilhas e automação de rotinas operacionais.
 
 ---
 
-### 📚 Formação e Certificações
+### 📚 Cursos e Certificações
 
-**Graduação:**
-- [cite_start]🎓 **Engenharia de Software** — Anhanguera (Em andamento) [cite: 16, 71]
-
-**Dados & Inteligência Artificial:**
-- [cite_start]🤖 **Engenharia de Dados e Machine Learning** — DIO / TOTVS [cite: 74]
-- 📘 **Python para Análise de Dados** — Especialização Prática
-- 🗄️ **SQL e Banco de Dados** — Modelagem e Consultas
-
-**Sistemas Corporativos & Metodologias Ágeis:**
+- [cite_start]🎓 **Engenharia de Software** — Anhanguera [cite: 70, 71]
+- [cite_start]🤖 **Fundamentos de Engenharia de Dados e Machine Learning** — DIO / TOTVS [cite: 74]
 - [cite_start]⚙️ **SAP S/4HANA Essential Training** [cite: 8]
-- [cite_start]📋 **Agile Boards & Jira Settings** — Gestão e Organização de Fluxos [cite: 8, 9]
-- [cite_start]🔧 **Git e GitHub** — Versionamento Profissional de Código [cite: 16]
+- [cite_start]📋 **Agile Boards & Jira Settings** — Gestão de Fluxos [cite: 8, 9]
+- 📘 **Python para Análise de Dados** e **SQL e Banco de Dados**
+- 🔧 **Git e GitHub para Controle de Versão**
 
 ---
 
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A80077&width=500&lines=Em+constante+aprendizado...;Python+%2B+SQL+na+prática!;Construindo+soluções+tecnológicas!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A80077&width=500&lines=Engenharia+de+Software...;Python+%2B+SQL+na+prática!;Automação+e+Análise+de+Dados!"/>
   <br><br>
   <em>"Acredite no processo, cada etapa é essencial para o resultado final."</em>
 </div>
