@@ -95,7 +95,9 @@ Foco atual em:
 
 ## 💬 Filosofia
 
-> “Disciplina supera talento quando o talento não é disciplinado.”
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=4000&pause=1500&color=A80077&center=true&vCenter=true&width=750&lines=%22Disciplina+supera+talento+quando+o+talento+n%C3%A3o+%C3%A9+disciplinado.%22;Acredite+no+processo.+Cada+etapa+%C3%A9+essencial!"/>
+</div>
 
 ---
 
