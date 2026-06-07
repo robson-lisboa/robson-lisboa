@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas como SAP e PAS-X. Atualmente, curso **Engenharia de Software** na **Anhanguera** e estou em transição de carreira para a área de **Tecnologia**.  
-Apaixonado por **tecnologia e desenho realista**, busco unir **criatividade e lógica** na construção de soluções eficientes.  
-Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Pandas, SQLite, OpenPyXL, Git e GitHub**. Também realizo cursos voltados para **análise de dados, banco de dados e automação de processos**, aplicando os conhecimentos adquiridos em projetos práticos e versionados no GitHub.
+[cite_start]Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas de alta complexidade como SAP e PAS-X[cite: 15]. [cite_start]Atualmente, curso **Engenharia de Software** na **Anhanguera** [cite: 16, 71] e estou consolidando minha transição de carreira para a área de **Tecnologia**.  
+
+[cite_start]Com uma sólida bagagem em processos rigorosos, qualidade e conformidade[cite: 15, 23], uno lógica e criatividade para desenvolver soluções eficientes. [cite_start]Meu foco atual está no domínio de **Python e SQL**, com ênfase em automação de processos, manipulação de dados com **Pandas** e modelagem de bancos de dados[cite: 12, 16].
 
 ---
 
@@ -13,9 +13,9 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 **Linguagens:** ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
 
-**Bibliotecas e Bancos:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+**Bibliotecas e Bancos de Dados:** ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&theme=dark)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 **Ferramentas e Controle de Versão:** ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
@@ -24,36 +24,42 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚀 Projetos em Destaque
 
-- 📊 [Automação de Relatórios com Python e Pandas](https://github.com/robson-lisboa/automacao-relatorios) — Leitura de dados CSV, tratamento de informações, cálculo de indicadores e geração automática de relatórios Excel.  
-- 🗄️ [Análise de Dados com Python e SQL](https://github.com/robson-lisboa/analise-dados-sql) — Criação de banco de dados SQLite, consultas SQL com JOIN, GROUP BY e ORDER BY, ranking de clientes e faturamento por produto.  
-- 📈 [Relatórios Automatizados em Excel](https://github.com/robson-lisboa/relatorios-openpyxl) — Exportação de análises e indicadores utilizando Pandas e OpenPyXL.
+- 📊 [Automação de Relatórios com Python e Pandas](https://github.com/robson-lisboa/automacao-relatorios) — Extração e tratamento de dados brutos, cálculo de indicadores de performance e geração automatizada de relatórios formatados em Excel.  
+- 🗄️ [Análise de Dados com Python e SQL](https://github.com/robson-lisboa/analise-dados-sql) — Estruturação de banco de dados SQLite, desenvolvimento de consultas complexas (JOINs, agregações) e geração de inteligência de negócios.  
+- 📈 [Relatórios Automatizados em Excel](https://github.com/robson-lisboa/relatorios-openpyxl) — Integração avançada entre Pandas e OpenPyXL para manipulação de planilhas e automação de rotinas operacionais.
 
 ---
 
-### 📚 Cursos e Certificações
+### 📚 Formação e Certificações
 
-- 🎓 **Engenharia de Software** — Anhanguera
-- 🤖 **Fundamentos de Engenharia de Dados e Machine Learning** — DIO / TOTVS
-- ⚙️ **SAP S/4HANA Essential Training**
-- 📋 **Agile Boards & Settings for Jira**
-- 📘 **Python para Análise de Dados** e **SQL e Banco de Dados**
-- 🔧 **Git e GitHub para Controle de Versão**
+**Graduação:**
+- [cite_start]🎓 **Engenharia de Software** — Anhanguera (Em andamento) [cite: 16, 71]
+
+**Dados & Inteligência Artificial:**
+- [cite_start]🤖 **Engenharia de Dados e Machine Learning** — DIO / TOTVS [cite: 74]
+- 📘 **Python para Análise de Dados** — Especialização Prática
+- 🗄️ **SQL e Banco de Dados** — Modelagem e Consultas
+
+**Sistemas Corporativos & Metodologias Ágeis:**
+- [cite_start]⚙️ **SAP S/4HANA Essential Training** [cite: 8]
+- [cite_start]📋 **Agile Boards & Jira Settings** — Gestão e Organização de Fluxos [cite: 8, 9]
+- [cite_start]🔧 **Git e GitHub** — Versionamento Profissional de Código [cite: 16]
 
 ---
 
 ### 📊 Estatísticas GitHub
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=robson-lisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=robson-lisboa&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A80077&width=500&lines=Em+constante+aprendizado...;Python+%2B+SQL+na+prática!;Construindo+meu+portfólio+em+Tecnologia!"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=A80077&width=500&lines=Em+constante+aprendizado...;Python+%2B+SQL+na+prática!;Construindo+soluções+tecnológicas!"/>
   <br><br>
   <em>"Acredite no processo, cada etapa é essencial para o resultado final."</em>
 </div>
