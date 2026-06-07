@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Sobre mim
 
-[cite_start]Sou **estudante de Engenharia de Software** na **Anhanguera** e estou em **transição de carreira** para a área de **Tecnologia**. [cite: 11, 12, 16, 70, 71]  
+Sou **estudante de Engenharia de Software** na **Anhanguera** e estou em **transição de carreira** para a área de **Tecnologia**.  
 Apaixonado por **tecnologia e desenho realista**, busco unir **criatividade e lógica** na construção de soluções eficientes.  
-[cite_start]Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Pandas, SQLite, OpenPyXL, Git e GitHub**. [cite: 12, 16] [cite_start]Também realizo cursos voltados para **análise de dados, banco de dados e automação de processos**, aplicando os conhecimentos adquiridos em projetos práticos e versionados no GitHub. [cite: 12, 16]
+Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Pandas, SQLite, OpenPyXL, Git e GitHub**. Também realizo cursos voltados para **análise de dados, banco de dados e automação de processos**, aplicando os conhecimentos adquiridos em projetos práticos e versionados no GitHub.
 
 ---
 
@@ -34,12 +34,12 @@ Apaixonado por **tecnologia e desenho realista**, busco unir **criatividade e l�
 
 ### 📚 Cursos e Certificações
 
-- [cite_start]🎓 Engenharia de Software — Anhanguera [cite: 70, 71]
-- [cite_start]🤖 Fundamentos de Engenharia de Dados e Machine Learning — DIO / TOTVS [cite: 74, 75]
-- [cite_start]⚙️ SAP S/4HANA Essential Training [cite: 8]
-- [cite_start]📋 Agile Boards & Jira Settings [cite: 8, 9]
-- [cite_start]📘 Python para Análise de Dados [cite: 12, 16]
-- [cite_start]🗄️ SQL e Banco de Dados [cite: 12, 16]
+- 🎓 Engenharia de Software — Anhanguera
+- 🤖 Fundamentos de Engenharia de Dados e Machine Learning — DIO / TOTVS
+- ⚙️ SAP S/4HANA Essential Training
+- 📋 Agile Boards & Jira Settings
+- 📘 Python para Análise de Dados
+- 🗄️ SQL e Banco de Dados
 - 🔧 Git e GitHub para Controle de Versão
 
 ---
@@ -62,9 +62,9 @@ Apaixonado por **tecnologia e desenho realista**, busco unir **criatividade e l�
 ---
 
 <div align="center">
-  [cite_start]<a href="mailto:robson-lisboa@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a> [cite: 2]
-  [cite_start]<a href="https://www.linkedin.com/in/jos%C3%A9-robson-lisboa-68663643"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a> [cite: 3, 4]
-  [cite_start]<a href="https://github.com/robson-lisboa"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a> [cite: 4]
+  <a href="mailto:robson-lisboa@outlook.com"><img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/jos%C3%A9-robson-lisboa-68663643"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/robson-lisboa"><img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a80077,100:4e00c2&height=120&section=footer"/>
