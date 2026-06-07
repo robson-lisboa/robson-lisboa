@@ -30,9 +30,7 @@ Atualmente estudo **Python e SQL**, desenvolvendo projetos práticos com **Panda
 ### 🚀 Projetos em destaque
 
 - 📊 **Automação de Relatórios com Python e Pandas** — Leitura de dados CSV, tratamento de informações, cálculo de indicadores e geração automática de relatórios Excel.
-
 - 🗄️ **Análise de Dados com Python e SQL** — Criação de banco de dados SQLite, consultas SQL com JOIN, GROUP BY e ORDER BY, ranking de clientes e faturamento por produto.
-
 - 📈 **Relatórios Automatizados em Excel** — Exportação de análises e indicadores utilizando Pandas e OpenPyXL.
 
 ---
