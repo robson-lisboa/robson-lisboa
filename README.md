@@ -2,22 +2,17 @@
 
 ## ⚡ Engenharia de Software | Python | SQL | Automação de Dados
 
-> Transformando experiência industrial em soluções com tecnologia, dados e automação.
+> Desenvolvendo soluções inteligentes através da programação, análise de dados e automação.
 
 ---
 
 ## 👨‍💻 Sobre mim
 
-Profissional com mais de **10 anos de experiência em ambiente industrial e farmacêutico**, atuando em processos críticos, qualidade e sistemas como **SAP e PAS-X**.
+Sou **estudante de Engenharia de Software** na **Anhanguera** e estou focado no desenvolvimento de competências técnicas para a área de **Tecnologia e Dados**. 
 
-Atualmente em transição para a área de **Tecnologia**, cursando **Engenharia de Software** e focado em:
+ Atualmente, dedico meus estudos à criação de soluções práticas e automações utilizando **Python e SQL**. Tenho experiência no desenvolvimento de projetos para manipulação de arquivos, estruturação de bancos de dados locais e geração de relatórios inteligentes.
 
-- Python para automação e análise de dados  
-- SQL para manipulação e consulta de dados  
-- Criação de projetos reais com Pandas, SQLite e Excel  
-- Versionamento com Git e GitHub  
-
-Minha base operacional + lógica de programação me permite construir soluções com foco em **precisão, eficiência e escala**.
+Busco aplicar a lógica de programação e o controle de versão de forma consistente para construir ferramentas eficientes, organizadas e de alto impacto.
 
 ---
 
@@ -42,7 +37,7 @@ Minha base operacional + lógica de programação me permite construir soluçõe
 ## 🚀 Projetos em destaque
 
 ### 📊 Automação de Relatórios
-Transformação de dados CSV em relatórios automatizados em Excel com indicadores de performance usando Python + Pandas.
+Transformação de dados CSV em relatórios automatizados em Excel com indicators de performance usando Python + Pandas.
 
 🔗 https://github.com/robson-lisboa/automacao-relatorios
 
