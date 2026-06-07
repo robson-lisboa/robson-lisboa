@@ -2,9 +2,9 @@
 
 ### 👨‍💻 Sobre mim
 
-[cite_start]Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas regulatórios de alta complexidade como **SAP e PAS-X**[cite: 15]. [cite_start]Atualmente, curso **Engenharia de Software** na **Anhanguera** [cite: 16, 70, 71] [cite_start]e estou consolidando minha transição de carreira para a área de **Tecnologia & Dados**.
+Sou profissional com mais de 10 anos de experiência em ambientes industriais e farmacêuticos, atuando com sistemas regulatórios de alta complexidade como **SAP e PAS-X**. Atualmente, curso **Engenharia de Software** na **Anhanguera** e estou consolidando minha transição de carreira para a área de **Tecnologia & Dados**.
 
-[cite_start]Combinando minha sólida vivência em processos rigorosos, qualidade e conformidade com as habilidades técnicas em desenvolvimento [cite: 17][cite_start], foco na construção de soluções eficientes com **Python e SQL**. Meu objetivo atual é transformar dados brutos em ferramentas automatizadas de inteligência e otimização operacional.
+Combinando minha sólida vivência em processos rigorosos, qualidade e conformidade com as habilidades técnicas em desenvolvimento, foco na construção de soluções eficientes com **Python e SQL**. Meu objetivo atual é transformar dados brutos em ferramentas automatizadas de inteligência e otimização operacional.
 
 ---
 
@@ -34,10 +34,10 @@
 
 ### 📚 Cursos e Certificações
 
-- [cite_start]🎓 **Engenharia de Software** — Anhanguera [cite: 70, 71]
-- [cite_start]🤖 **Fundamentos de Engenharia de Dados e Machine Learning** — DIO / TOTVS [cite: 74]
-- [cite_start]⚙️ **SAP S/4HANA Essential Training** [cite: 8]
-- [cite_start]📋 **Agile Boards & Jira Settings** — Gestão de Fluxos [cite: 8, 9]
+- 🎓 **Engenharia de Software** — Anhanguera
+- 🤖 **Fundamentos de Engenharia de Dados e Machine Learning** — DIO / TOTVS
+- ⚙️ **SAP S/4HANA Essential Training**
+- 📋 **Agile Boards & Jira Settings** — Gestão de Fluxos
 - 📘 **Python para Análise de Dados** e **SQL e Banco de Dados**
 - 🔧 **Git e GitHub para Controle de Versão**
 
