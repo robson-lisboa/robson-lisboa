@@ -8,9 +8,9 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **estudante de Engenharia de Software** na **Anhanguera** e estou focado no desenvolvimento de competências técnicas para a área de **Tecnologia e Dados**. 
+Sou **estudante de Engenharia de Software** na **Anhanguera** (2023–2027) e estou focado no desenvolvimento de competências técnicas para a área de **Tecnologia e Dados**. 
 
- Atualmente, dedico meus estudos à criação de soluções práticas e automações utilizando **Python e SQL**. Tenho experiência no desenvolvimento de projetos para manipulação de arquivos, estruturação de bancos de dados locais e geração de relatórios inteligentes.
+Atualmente, dedico meus estudos à criação de soluções práticas e automações utilizando **Python e SQL**. Tenho experiência no desenvolvimento de projetos para manipulação de arquivos, estruturação de bancos de dados locais e geração de relatórios inteligentes.
 
 Busco aplicar a lógica de programação e o controle de versão de forma consistente para construir ferramentas eficientes, organizadas e de alto impacto.
 
@@ -37,30 +37,21 @@ Busco aplicar a lógica de programação e o controle de versão de forma consis
 ## 🚀 Projetos em destaque
 
 ### 📊 Automação de Relatórios
-Transformação de dados CSV em relatórios automatizados em Excel com indicators de performance usando Python + Pandas.
-
+Transformação de dados CSV em relatórios automatizados em Excel com indicadores de performance usando Python + Pandas.
 🔗 https://github.com/robson-lisboa/automacao-relatorios
-
----
 
 ### 🗄️ Análise de Dados com SQL
 Criação de banco SQLite com consultas avançadas (JOIN, GROUP BY, ranking e análise de faturamento).
-
 🔗 https://github.com/robson-lisboa/analise-dados-sql
-
----
 
 ### 📈 Relatórios Inteligentes em Excel
 Geração automática de dashboards e relatórios usando Pandas + OpenPyXL.
-
 🔗 https://github.com/robson-lisboa/relatorios-openpyxl
-
 ---
 
 ## 🎯 Direção profissional
 
 Foco atual em:
-
 - Analista de Dados Jr  
 - Analista de Automação  
 - Suporte Técnico com SQL + Python  
@@ -70,7 +61,7 @@ Foco atual em:
 
 ## 📚 Formação
 
-- Engenharia de Software — Anhanguera (2023–2026)  
+- Engenharia de Software — Anhanguera (2023–2027)  
 - Fundamentos de Engenharia de Dados e ML — DIO / TOTVS  
 - SQL e Banco de Dados  
 - Python para Análise de Dados  
