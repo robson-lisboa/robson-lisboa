@@ -34,19 +34,11 @@ Busco aplicar a lógica de programação e o controle de versão de forma consis
 
 ---
 
-## 🚀 Projetos em destaque
+## 🚀 Projetos Recentes
 
-### 📊 Automação de Relatórios
-Transformação de dados CSV em relatórios automatizados em Excel com indicadores de performance usando Python + Pandas.
-🔗 https://github.com/robson-lisboa/automacao-relatorios
+<!-- START_SECTION:projects -->
+<!-- END_SECTION:projects -->
 
-### 🗄️ Análise de Dados com SQL
-Criação de banco SQLite com consultas avançadas (JOIN, GROUP BY, ranking e análise de faturamento).
-🔗 https://github.com/robson-lisboa/analise-dados-sql
-
-### 📈 Relatórios Inteligentes em Excel
-Geração automática de dashboards e relatórios usando Pandas + OpenPyXL.
-🔗 https://github.com/robson-lisboa/relatorios-openpyxl
 ---
 
 ## 🎯 Direção profissional
