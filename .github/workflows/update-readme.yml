@@ -1,18 +1,19 @@
-name: Update README Projects
+name: Atualizar README dos Projetos
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Roda automaticamente todo dia à meia-noite
-  workflow_dispatch: # Permite que você ative manualmente quando quiser
+    - cron: '0 0 * * *'  # Roda automaticamente todo dia à meia-noite
+  workflow_dispatch:     # Permite que você ative manualmente quando quiser
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout do repositorio
+      - name: Checkout do repositório
         uses: actions/checkout@v3
-      
-      - name: Gerar lista de repositorios
+
+      - name: Gerar lista de repositórios
         uses: richardtop/repo-list-generator@v1
         with:
           username: 'robson-lisboa'
+          
