@@ -36,8 +36,8 @@ Busco aplicar a lógica de programação e o controle de versão de forma consis
 
 ## 🚀 Projetos Recentes
 
-<!-- START_SECTION:projects -->
-<!-- END_SECTION:projects -->
+<!-- repo-list-start -->
+<!-- repo-list-end -->
 
 ---
 
