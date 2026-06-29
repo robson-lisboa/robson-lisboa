@@ -3,17 +3,27 @@ name: Atualizar README dos Projetos
 on:
   schedule:
     - cron: '0 0 * * *'  # Roda automaticamente todo dia à meia-noite
-  workflow_dispatch:     # Permite que você ative manualmente quando quiser
+  workflow_dispatch:     # Permite rodar manualmente pela aba Actions
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write    # Permissão necessária para o bot alterar o README e fazer o commit
+
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v3
 
       - name: Gerar lista de repositórios
-        uses: richardtop/repo-list-generator@v1
+        uses: richardtop/repo-list-generator@master
         with:
           username: 'robson-lisboa'
-          
+
+      - name: Commit e Push das alterações
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          # Só faz o commit se houver alguma mudança real na lista para evitar erros
+          git diff --quiet && git diff --staged --quiet || (git commit -m "docs: lista de repositórios atualizada" && git push)
