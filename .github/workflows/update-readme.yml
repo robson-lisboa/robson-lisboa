@@ -19,6 +19,8 @@ jobs:
         uses: richardtop/repo-list-generator@master
         with:
           username: 'robson-lisboa'
+          # Especifica os repositórios exatos mostrados na imagem image_82d295.png para forçar a exibição
+          repos: 'marmitex_da_rosa,UNOPAR_CI_CD,rejane'
 
       - name: Commit e Push das alterações
         run: |
